@@ -2,7 +2,7 @@
 :hp-tags: e-learning, tutor, virtual,decálogo tutoria virtual
 :published_at: 2015-03-10
 
-Comparto con ustedes un decálogo que a mi parecer contiene las 10 recomendacioens que cada Tutor Virtual deba conocer y poner en práctica:
+Comparto con ustedes un decálogo que a mi parecer contiene las 10 recomendacioens que cada Tutor Virtual debe conocer y poner en práctica:
 
 == Número 1
 
@@ -26,13 +26,13 @@ Generar actividades que fomenten un aprendizaje cooperativo y colaborativo entre
 
 image:http://www.vvob.org.ec/sitio/sites/default/files/images/attached/thema_wereld01.jpg[interaprendizaje, 250, role=left]
 	
-Buscar que entre los estudiantes se genere un proceso de interaprendizaje, no siempre es necesario responder a sus interrogantes a la velocidad de la luz.
+Buscar que entre los estudiantes generar un proceso de interaprendizaje, no siempre es necesario responder a sus interrogantes a la velocidad de la luz.
 
 == Número 5
 
 image:http://www.psicodiagnosis.es/images/motiva1_590.jpg[aprendizaje colaborativo, 300, role=right]
 
-Ser claro y conciso en las respuestas, comentarios o mensajes a los alumnos y motivar, dirigir o corregir sus aportes.
+Ser claro y conciso en las respuestas, comentarios o mensajes y motivar, dirigir o corregir sus aportes.
 
 == Número 6
 image:http://media.appappeal.com/cloud/web-2.0-tag-cloud-4.png[aprendizaje colaborativo, 300, role=left]
@@ -43,7 +43,7 @@ Emplear diversos recursos de la web 2.0 dentro de las temáticas desarrolladas p
 
 image:https://media.licdn.com/media/p/7/005/0ab/155/31e95c8.png[aprendizaje colaborativo, 300, role=right]
 
-Emplear diversas Métodos-->estrategias--> Técnicas en el Aula Virtual, tanto para desarrollar, evaluar y calificar las diferentes actividades planificadas.
+Planificar correctamente sus actividades Métodos-->estrategias--> Técnicas en el Aula Virtual, tanto para desarrollar, evaluar y calificar las diferentes actividades.
 
 == Número 8 
 
@@ -54,9 +54,9 @@ Comprender que cada persona aprende y participa a su modo dentro de un entorno v
 == Número 9 
 image:http://www.astrane.com/wp-content/uploads/2013/02/tras.jpg[aprendizaje colaborativo, 300, role=right]
 
-Utilizar un lenguaje apropiado en todo momento, dentro del AV y sus recursos y/o actividades como en las instrucciones de las mismas y los eventos sincrónicos.
+Utilizar un lenguaje apropiado en todo momento, dentro del AV y sus recursos y/o actividades no usar tecnicismos  ni jergas.
 
 == Número 10 
 image:http://tramitel.net/assets/Nueve-errores-laborales-que-debes-evitar-cometer.jpg[errar, 300, role=left]
 
-Recordar que somo seres humanos y que todos podemos errar, un buen tutor mediará con los estudiantes a fin de buscar una solución apropiada.
+Recordar que somo seres humanos y que todos podemos errar, un buen tutor mediará con los estudiantes a fin de buscar una solución apropiada. Nunca buscara culpables.
