@@ -6,7 +6,7 @@ Comparto con ustedes un decálogo que a mi parecer contiene las 10 recomendacioe
 
 == Número 1
 
-image:http://www.carvajaltecnologiayservicios.com.mx/.storage/media/cabe_presencia_regional.jpg [Presencia del tutor, 300, role=right]
+image:http://www.carvajaltecnologiayservicios.com.mx/.storage/media/cabe_presencia_regional.jpg [Presencia del tutor, 300,200 role=right]
 
 Estar presente en todo momento, enseñar a sus estudiantes a controlar y mejorar su aprendizaje virtual.
 
