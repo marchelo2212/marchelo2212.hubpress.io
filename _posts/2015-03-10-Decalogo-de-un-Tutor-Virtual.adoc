@@ -1,5 +1,5 @@
 = Decálogo de un Tutor Virtual
-:hp-image: http://www.cyldigital.es/sites/default/files/imagecache/resize_600_auto/group_article/decalogo_0.jpg[]
+:hp-image: http://www.cyldigital.es/sites/default/files/imagecache/resize_600_auto/group_article/decalogo_0.jpg[img,200]
 :hp-tags: e-learning, tutor, virtual,decálogo tutoria virtual
 :published_at: 2015-03-10
 
