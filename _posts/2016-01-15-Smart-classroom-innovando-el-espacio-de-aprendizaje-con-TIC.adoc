@@ -8,7 +8,7 @@ Comparto con ustedes, el caso de estudio creado por  el profesor Guillermo Bauti
 
 
 1.<<fase1>> +
-<<Presupuesto,Presupuesto>> +
+<<presupuesto#,Presupuesto>> +
 <<Presupuesto>>
 
 Learn how to <<link-macro-attributes,use attributes within the link macro>>.
@@ -119,7 +119,7 @@ http://floorplanner.com/projects/37242114-smarthclassroom/#details[mapa 3D Smart
 
 
 
-=== xref:Presupuesto[Presupuesto]
+=== xref:presupuesto[Presupuesto]
 
 Es necesario dar todo el uso posible al inmobiliario ya existe al igual que a la tecnología que posee ya el aula de clase por ello se propone:
 
