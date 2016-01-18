@@ -5,7 +5,11 @@
 
 Comparto con ustedes, el caso de estudio creado por  el profesor Guillermo Bautista. Analizado y desarrollado en la Universitat Oberta de Catalunya (UOC).
 
-== Fase 1: Diseño de una aula smart classroom
+
+
+1.<<Fase1>>
+
+== <<Fase 1>>: Diseño de una aula smart classroom
 
 === Introducción
 
@@ -14,7 +18,7 @@ cosas u actividades.
 
 En el sector de la educación se ha dado la apertura para de creación de nuevos recursos didácticos, en los que un factor común es el uso de la tecnología, por ende han surgido nuevos teorías, modelos o visiones del aprendizaje como son el conectivismo, flipped classroom, gamificación,mlearning, learning analytics entre otras, todas buscando lograr un mejor aprendizaje en el estudiante donde la tecnología, la pedagogía y el conocimiento se mezclen de tal manera que generen aprendizajes significativos y colaborativos para todos los participantes. 
 
-Así mismo debido al uso masivo de las TICs han aparecido nuevas competencias digitales, tipos de aprendizaje, formas de aprendizaje, etc, es así que el docente ha necesitado responderdiversas exigencias como el manejo de la tecnología, la pedagogía y el conocimiento del contenido (Modelo TPACK1) y con ello han surgido nuevas necesidades dentro de los espacios donde se genera el proceso de enseñanza – aprendizaje.
+Así mismo debido al uso masivo de las TICs han aparecido nuevas competencias digitales, tipos de aprendizaje, formas de aprendizaje, etc, es así que el docente ha necesitado responderdiversas exigencias como el manejo de la tecnología, la pedagogía y el conocimiento del contenido (Modelo TPACK) y con ello han surgido nuevas necesidades dentro de los espacios donde se genera el proceso de enseñanza – aprendizaje.
 
 El presente proyecto de aula promverá un trabajo colaborativo dentro de todos los integrantes un aula de clases, desarrollará la creatividad de los estudiantes y promoverá el liderazgo de cada uno de ellos, se lo ha diseñado de tal manera que se logren emplear metodologías educativas innovadoras y distruptivas en las que se pueda sacar el mayor provecho de las capacidades de los estudiantes, la metodología y el ambiente físico.
 
@@ -100,17 +104,11 @@ El docente/facilitador cuenta con su espacio ubicado de tal manera que le sea f�
 
 Para visializar en 3D esta aula por favor visite este link:
 
-http://floorplanner.com/projects/37242114-smarthclassroom/#details[mapa 3D Smarth ClassRoom]
-
-= Document Title
-:data-uri:http://floorplanner.com/projects/37242114-smarthclassroom/#details
+http://floorplanner.com/projects/37242114-smarthclassroom/#details[mapa 3D Smarth ClassRoom, window="_blank"]
 
 === Presupuesto
 
 Es necesario dar todo el uso posible al inmobiliario ya existe al igual que a la tecnología que posee ya el aula de clase por ello se propone:
-
-
-
 
 
 [cols="1,2,1,1", options="header,footer,autowidth"]
@@ -140,4 +138,6 @@ Cantidad |Descripción |Valor Individual  |Valor Total
 
 |||Total|3274
 |===
+
+NOTE: Este valor de 3274 dólares es el cambio del euro (3000) a dolar.
 
