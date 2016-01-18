@@ -8,7 +8,7 @@ Comparto con ustedes, el caso de estudio creado por  el profesor Guillermo Bauti
 
 
 1.<<fase1>>
-2. <<presupuesto>>
+2.<<presupuesto>>
 
 == <<Fase 1>>: Diseño de una aula smart classroom
 
@@ -107,7 +107,7 @@ Para visializar en 3D esta aula por favor visite este link:
 
 http://floorplanner.com/projects/37242114-smarthclassroom/#details[mapa 3D Smarth ClassRoom, window="_blank"]
 
-=== Presupuesto
+=== <<Presupuesto>>
 
 Es necesario dar todo el uso posible al inmobiliario ya existe al igual que a la tecnología que posee ya el aula de clase por ello se propone:
 
