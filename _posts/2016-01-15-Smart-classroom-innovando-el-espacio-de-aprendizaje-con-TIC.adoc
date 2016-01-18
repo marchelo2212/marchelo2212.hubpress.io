@@ -10,9 +10,11 @@ Comparto con ustedes, el caso de estudio creado por  el profesor Guillermo Bauti
 1.<<fase1>>
 2.<<presupuesto>>
 
+
+
 == <<Fase 1>>: Diseño de una aula smart classroom
 
-=== Introducción
+
 
 La educación del siglo XXI se ha visto inmersa por los grandes cambios sociales que se han suscitado por la implementación de las TICs en las diversas actividades del ser humano, esto ha obligado al surgimiento de cambios en el cómo, donde, con quién, y con qué se hacen diversas
 cosas u actividades.
@@ -105,9 +107,15 @@ El docente/facilitador cuenta con su espacio ubicado de tal manera que le sea f�
 
 Para visializar en 3D esta aula por favor visite este link:
 
+
+:linkattrs:
 http://floorplanner.com/projects/37242114-smarthclassroom/#details[mapa 3D Smarth ClassRoom, window="_blank"]
 
-=== <<Presupuesto>>
+
+
+
+
+=== xref:Presupuesto [Presupuesto]
 
 Es necesario dar todo el uso posible al inmobiliario ya existe al igual que a la tecnología que posee ya el aula de clase por ello se propone:
 
