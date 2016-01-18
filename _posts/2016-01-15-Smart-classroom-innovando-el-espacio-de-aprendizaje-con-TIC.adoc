@@ -8,7 +8,7 @@ Comparto con ustedes, el caso de estudio creado por  el profesor Guillermo Bauti
 
 
 1.<<fase1>> +
-<<presupuesto#,Presupuesto>> +
+<<#presupuesto,Presupuesto>> +
 <<Presupuesto>>
 
 Learn how to <<link-macro-attributes,use attributes within the link macro>>.
