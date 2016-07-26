@@ -44,14 +44,79 @@ Empleando el ABP dentro de las aulas de clase se logra desarrollar las siguiente
 * Planificación, organización
 * Toma de decisiones
 
+== Características del ABP
+
+Esta metodología posee las siguientes características:
+
+* Es una metodología centrada en el estudiante y en su aprendizaje. Enseña a trabajar con un grupo de manera autónoma y, a partir de la situación dada, realizar una investigación que finalice con la entrega de un proyecto que de respuesta viable a una necesidad determinada (o situación presentada).
+
+* Parte de un planteamiento real. Esto favorece que los estudiantes aumenten su motivación hacia las temáticas de estudio y se familiaricen con dificultades o situaciones que se podrán encontrar en su futuro.
+
+* Favorece el compromiso del estudiante con su aprendizaje y con el de su grupo de trabajo. Este compromiso lleva consigo un aumento de la responsabilidad individual y grupal con el proceso que seguirá el grupo y con la calidad del producto que logrará.
+
+* Es deseable que, a la hora de plantear el proyecto a desarrollar, estén implicadas distintas áreas, potenciando así el carácter interdisciplinar de esta metodología. Esta conexión entre diversas áreas de estudio ofrece al
+estudiante la posibilidad de estructurar los conocimientos ya disponibles y los nuevos en un “todo” coherente necesario para un mejor desempeño estudiantil y en su futurio desempeño profesional. Del mismo modo, ofrece a los profesores la posibilidad de trabajar en equipo estando, también, en continuo aprendizaje y en una mejora continua.
+
+== ABP vs Metodología tradicional
+
+El desarrollar ABP difiere de las metodologías tradicionales para lograr diferenciar de mejor manera puedes revisar la siguiente imagen:
+
+image:https://s32.postimg.org/bgzrx22sl/ABP_vs_Tradicional.png [ABP,350 role=center]
+
+Para ser aún mpas específicos a continuación se describe puntos específicos:
+
+image:https://s32.postimg.org/wcm28ayzn/ABP_vs_Tradicional2.png [ABP, 600,200 role=center]
+
+== Fases del ABP
+
+Como cualquier otra metodolgía el ABP conlleva necesariamente una serie de pasos que deben ser desarrollados correctamente a fin de lograr un cumplimiento de los objetivos propuestos:
+
+* Fase I: definir la idea clave o contenido del proyecto
+* Fase II: Establecimiento de metas 
+* Fase III: Definir las preguntas guía. 
+* Fase IV: Establecer líneas de tiempo 
+* Fase V: establecer seguimiento 
+
+Por otro lado el centro de Servicio de Innovación Educativa Universidad Politécnica de Madrid describe las siguientes aspectos refiriéndose al ABP:
 
 
+* Planificación del ABP - Orientaciones didácticas:
+** Los objetivos que los estudiantes lograrán con la realización del proyecto.
+** Los conocimientos que adquirirán con la creación del proyecto.
+** Las temáticas que abordará el proyecto.
+* Definir el proyecto
+* Definir las actividades a realizar
+* Definición de los recursos necesarios
+* Evaluación
+
+image:http://www.aulaplaneta.com/wp-content/uploads/2015/02/INFOGRAF%C3%8DA_El-aprendizaje-basado-en-proyectos.jpg [Fases ABP, 600, role=center]
+
+== Rol del docente y del estudiante dentro del ABP
+Al emplear una metodología activa necesariamente el rol del docente varía ya que el aprendizaje se centra en el estudiante, y con ello las actividades de aprendiaje que se desarrollen se modificarán a fín de permitir una aprendizaje activo y colaborativo.
+
+=== Rol del docente
+
+El docente jugará siempre un papel fundamental como facilitador del aprendizaje:dentro del grupo, debiendo tomar en cuenta que:
+
+* Dará un papel protagonista al estudiante en la construcción de su aprendizaje. 
+* Tiene que ser consciente de los logros que vayan a conseguir sus estudiantes. 
+* Es un guía, un tutor, un facilitador del aprendizaje que acude al estudiante cuando le necesita y que les ofrece información cuando la precisan. 
+* Debe ofrecer a los/as estudiantes diversas oportunidades de aprendizaje. 
+* Ayudará a sus alumnos/as a que piensen de forma crítica, y orientará sus reflexionesformulando cuestiones importantes. 
+* Realizará sesiones de tutoría con los/as estudiantes. 
+
+== Rol del estudiante
+
+Cuáles son los roles del docente y de los estudiantes en él?
 
 
+¿Cuáles son sus ventajas y desventajas? ¿
+
+¿Cuáles son los diferentes estilos de aprendizaje?
+¿Cómo se motiva a los estudiantes en cada caso?
+
+Y además, responder a: ¿Cuáles son las características del ABP? 
 http://www.aulaplaneta.com/wp-content/uploads/2015/02/INFOGRAF%C3%8DA_El-aprendizaje-basado-en-proyectos.jpg
-
-
-
 
 == <<Fase 1>>: Diseño de una aula smart classroom
 
@@ -69,82 +134,9 @@ El presente proyecto de aula promverá un trabajo colaborativo dentro de todos l
 
 En vista que dentro del aula de clases se desarrolarán la mayoría de actividades académicas se ha buscado el lograr un espacio físico que facilite la interacción con las personas de una forma acogedora, pero a la vez, también nos permita generar conocimiento de una forma democrática y asimilar el mismo de igual manera.
 
-=== Contextualización
-
-La Unidad Educativa "Milenio", esta ubicada al norte de la ciudad Quito, capital de Ecuador, cuenta con un cuerpo docente de 38 docentes para las diferentes áreas del conocimiento, oferta un bachillerato unificado en ciencias y también se encuetra entre las unidades educativas con capacidad de ofertar un Bachillerato Internacional.
-
-Esta propuesta de proyecto esta dirigida a estudiantes de nivel secundario del primer años de bachillerato, entre los 15 y 16 años de edad, para trabajar la asignatura de emprendimiento y gestión; el espacio físico tiene las dimensiones 16m de largo por 8 de ancho, cuenta con energía eléctrica, red inalámbrica interna y conexión a internet con uan velocidad de 10mbps.
-
-Este espacio físico se lo contruyó con las siguientes características:
-
-* Puerta estilo francesa.
-* Ventanales de 3m en cada pared
-* Vídrios templado transparentes
-* Multiples tomas correinte tanto en paredes como techo.
-* Pizarra para marcador líquido
-* Mueblés stándar de clase (sella y mesas individual) estudiante.
-* Escritio y silla para el docente.
-* Libreros, casilleros para los estudiantes
-* Proyector
-* Sistema de audio (parlantes)
-* Un computador para el docente con sistema windows 8.1 
-
-De esta manera este espacio posee las carácterísitcas comunes al compararla con otras aulas de clase de la institución; sin embargo gracias a la gestión realizada por parte de las autoridades se ha logrado un fondo de 3200 usd, para la aducación de este espacio y tranformarlo en una smarth class acorde las necesidades de la misma y posibilidades ya existentes.
-
-De esta manera el actual proyecto propone un rediseño interno del aula de clase y una  optimización del espacio, buscando el mejorar el desempeño de cada participate del proceso 
-
-
-==== Transformando el aula de clase a una Smarth ClassRoom
-
-Al querer tranformar este espacio es necesario buscar una integracion del espacio con la tecnología, acorde  lo mencionado por Gros, 2000 y 2004;
-Hutchings y Standley, (2000) donde defienden, a partir de sus ideas y reflexiones, que en una smart classroom debería asociarse
-
 _“... una integración invisible de la tecnología en el espacio de aprendizaje.”_ 
 
-Debtro de una smarth Classroom se busca la  intersección de tres elementos que interactúan en el diseño del espacio de aprendizaje:
 
-. El diseño arquitectónico y la ergonomía del aula, poseer mobiliario e
-instrumentos que faciliten el trabajo dentro del aula, la creatividad y colaboración.
-. La integración de la tecnología de manera: funcional, invisible, justificada e
-intensiva
-. Una metodología didáctica: innovadora, disruptiva y oblicua; adecuada a este
-espacio con la finalidad de hacer más eficiente y satisfactorio el proceso de
-aprendizaje.
-
-Para poder considerarse una Smart classroom necesariamente deberá poseer ciertas
-características didácticas como son: +
-
-* Flexibilidad en la estructura física
-* Adaptabilidad
-* Confortabilidad
-* Riqueza y variabilidad
-* Conectividad
-* Personalización
-
-Por todo esto se ha planteado el siguiente plano de la clase en la que se pueden evidenciar los cambios que se necesitrarían.
-
-image:https://dl.dropboxusercontent.com/u/82435380/Tutorias%20Marcelo/clase.jpg[interaprendizaje, 600, role=center]
-
-De esta manera los cambios que se realizarán son los siguientes:
-
-* Aula cuenta con una PDI (Pizarra Digital Interactiva), de bajo costo, ya que se la realizo con el proyecto de Jonny Lee Chunlee, 
-* Usar sistema operativos GNU/Linux Edubuntu, ya que posee gran cantidad de software educativo didáctivo.
-* Incorporar mesas para trabajo grupal
-* Agregar computadores, core I3 con sistema operativo Edubunto
-* Incorporar tablets
-* Generar un espacios que promuevan la creatividad y el trabajo colaborativo.
-
-Se ha planeado para realizar trabajado en grupos de 4 estudiantes, en el caso de ser más se podrán dar uso a puf ubicados alrededor, se cuenta con dos áreas bien limitadas, el área "académcia", donde se realizá en su mayoría el proceso de enseñana aprendizaje guiada por el docente/facilitador y el segundo "recreativo"donde se podrá continuar con este proceso de una manera menos formal y más libre.
-
-Se ha generado estos espacios con el fin de que el estudiante logre identificar cada área y que logre trabajar de diferente manera en cada una, es decir, en el área "académica" se busca dirigir la atención a que el estudiante comprenda las directrices planteadas y/o conocimiento s necesarios para realizar las actividades. 
-
-Por otro lado en el área recreativa el estudiante podrá relajarse y sentirse libres el la convivencia con sus compañeros,interactuando y trabajando colaborativamente desde diversos puntos de esta área. 
-
-también se han ubicado áreas para la ubicación de materiales del estudiante (pertenencias) y otro de materiales del Aula (Librero, armario), así mismo se ha instalado una impresora inalámbrica para poder tener impreso o imprimir cualquier documentación que se necesite.
-
-También se cuenta con una mesa principal que permitirá tener un espacio para trabajar entre todos, así cada estudiante podrá construir su conocimiento y aportar al del resto  y esto facilitará la flexión, análisis y síntesis de toda la información/concimeinto y resolver infinidad de retos.
-
-El docente/facilitador cuenta con su espacio ubicado de tal manera que le sea fácil dirigirse al grupo y verificar el desarrollo de las actividades o planificar las mismas. Una las de las carácterísitcas de todo el inmobiliario es que puede desplazarse con facilidad, ya que posee ruedas en cada pata.
 
 Para visializar en 3D esta aula por favor visite este link:
 
