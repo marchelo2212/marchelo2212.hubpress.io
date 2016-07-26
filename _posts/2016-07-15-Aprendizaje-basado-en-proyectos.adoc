@@ -107,10 +107,57 @@ El docente jugará siempre un papel fundamental como facilitador del aprendizaje
 
 == Rol del estudiante
 
-Cuáles son los roles del docente y de los estudiantes en él?
+En el aprendizaje ABP el estudiante dejaría de ser un elemento pasivo para convertirse en un elemento activo con las siguientes actitudes: 
+
+* Asumir su responsabilidad ante el aprendizaje.  
+* Compartir información y aprender de los demás. 
+* Trabajar con diferentes grupos gestionando los posibles conflictos que surjan. 
+* Tener una actitud receptiva hacia el intercambio de ideas con los compañeros/as. 
+* Ser autónomo en el aprendizaje (buscar información, contrastarla, comprenderla, aplicarla, 
+etc.) y saber pedir ayuda y orientación cuando lo necesite. 
+* Disponer de las estrategias necesarias para planificar, controlar y evaluar los pasos que lleva a cabo en su aprendizaje. 
+
+image:https://s31.postimg.org/qjvt6kzq3/pasos_avp.png[pasos para desarrollar ABP,600]
+
+== Ventajas y desventajas del ABP
+
+Dentro del uso del ABP como metodología de clases, podemos mencionar varias ventajas que aportarán directametne al desarrollo del proyecto, al igual que ciertas desventajas que afectarán al mismo.
+
+=== Ventajas
+
+Los alumnos desarrollan habilidades y competencias tales como
+colaboración, planeación de proyectos, comunicación, toma de decisiones y
+manejo del tiempo (Blank, 1997; Dickinsion et al, 1998).
+• Aumentan la motivación. Se registra un aumento en la asistencia a la
+escuela, mayor participación en clase y mejor disposición para realizar las
+tareas (Bottoms & Webb, 1998; Moursund, Bielefeldt, & Underwood, 1997).
+• Integración entre el aprendizaje en la escuela y la realidad. Los estudiantes
+retinen mayor cantidad de conocimiento y habilidades cuando están
+comprometidos con proyectos estimulantes. Mediante los proyectos, los
+estudiantes hacen uso de habilidades mentales de orden superior en lugar
+de memorizar datos en contextos aislados, sin conexión. Se hace énfasis 
+en cuándo y dónde se pueden utilizar en el mundo real (Blank, 1997;
+Bottoms & Webb, 1998; Reyes, 1998).
+• Desarrollo de habilidades de colaboración para construir conocimiento. El
+aprendizaje colaborativo permite a los estudiantes compartir ideas entre
+ellos, expresar sus propias opiniones y negociar soluciones, habilidades
+todas, necesarias en los futuros puestos de trabajo (Bryson, 1994; Reyes,
+1998).
+• Acrecentar las habilidades para la solución de problemas (Moursund,
+Bielefeld, & Underwood, 1997).
+• Establecer relaciones de integración entre diferentes disciplinas.
+• Aumentar la autoestima. Los estudiantes se enorgullecen de lograr algo que
+tenga valor fuera del aula de clase y de realizar contribuciones a la escuela
+o la comunidad (Jobs for the future, n.d.).
+• Acrecentar las fortalezas individuales de aprendizaje y de sus diferentes
+enfoques y estilos hacia este (Thomas, 1998).
+• Aprender de manera práctica a usar la tecnología. (Kadel, 1999; Moursund,
+Bielefeldt, & Underwood, 1997). 
 
 
-¿Cuáles son sus ventajas y desventajas? ¿
+== Bibliografía
+http://ceupromed.ucol.mx/revista/PdfArt/1/27.pdf 
+
 
 ¿Cuáles son los diferentes estilos de aprendizaje?
 ¿Cómo se motiva a los estudiantes en cada caso?
