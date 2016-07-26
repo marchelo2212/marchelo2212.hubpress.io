@@ -2,17 +2,56 @@
 :hp-tags: ABP, abp, Aprendizaje basado en proyectos, Aprendizaje Orientado a Proyectos, innovación, educación
 :published_at: 2016-07-15
 
-La actualización de procesos educativos dentro de todo lo que en él interviene, es decir, Bases conceptuales, motodologías de enesñanaza estrategias, técnicas e  instrumentos a emplear.
+Las actuales teorías de aprendizaje necesariamente necesitan un "upgrade" a sus bases conceptuales, motodologías de enseñanaza, estrategias, técnicas e  instrumentos a emplear, para que vayan acorde a los últimos avances y hallazgos dentro de todo lo que está inmerso en ello.
+
+
+== ¿Qué es ABP?
+
+Esta metodología aprendizaje también la conocen como: Aprendizaje Orientado a Proyectos (AOP), Project Based Learning (PBL en inglés), se desarrolló en la escuela de medicina de la Universidad de Case Western Reserve (EEUU) y en la 
+Universidad McMaster (Canadá) (Lohfeld, 2005). 
+
+image:https://pedrojcamacho.files.wordpress.com/2013/06/pbl.png [ABP, 300,200 role=center]
+
+
+Se desarrolla en base a las siguientes premisas:
+
+* Disponer de un problema/proyecto real planteado a los estudiantes que los impulsa a trabajar en equipo para buscarle solución.
+
+* Una integración total y plena del proyecto en el currículo del módulo/unidad/bloque correspondiente de forma que las materias impartidas se supediten a la resolución del mismo. 
+
+* La reflexión sobre el conocimiento con el fin de generar nuevo conocimiento. 
+
+Al emplear ABP se pide a los alumnos que, en pequeños grupos, planifiquen, creen y evalúen un proyecto que responda a las necesidades planteadas en una determinada situación o problema.
+
+Su función principal es activar el aprendizaje de habilidades y contenidos a través de una enseñanza socializada,requiere el manejo, por parte de los estudiantes, de diversas fuentes de información y disciplinas que son necesarias para resolver problemas o contestar preguntas que sean realmente relevantes (Dirección de investigación y Desarrollo educativo, Monterrey).
+
+Fue concebido en con base en el constructivismo (Piaget, Vigostky) ya que  las personas según sus postulados: construimos el aprendizaje a partir de los conocimientos y las experiencias de los que ya disponemos y, en muchas ocasiones, a través de la participación activa y de la interacción con los demás.
+
+La idea fundamental es el diseño de un planteamiento de acción donde los/las 
+estudiantes identifican el ¿qué?, ¿con quién?, ¿para qué?, ¿cómo?, ¿cuánto?, factores de riesgo a enfrentar, medidas alternativas para asegurar el éxito, resultados esperados, etc., y no la solución de problemas o la realización de actividades, es decir construyen su propio conocimiento.
+
+Empleando el ABP dentro de las aulas de clase se logra desarrollar las siguientes capacidades (De Miguel 2005):
+
+* Análisis
+* Síntesis
+* Investigación
+* Transferencia de conocimientos y procedimientos a otros contextos
+* Pensamiento crítico
+* Responsabilidad individual y grupal
+* Manejo de diversas fuentes de información
+* Expresión oral y escrita
+* Trabajo en equipo
+* Planificación, organización
+* Toma de decisiones
 
 
 
 
-Project Based Learning en inglés
+
 http://www.aulaplaneta.com/wp-content/uploads/2015/02/INFOGRAF%C3%8DA_El-aprendizaje-basado-en-proyectos.jpg
 
 
 
-image:https://pedrojcamacho.files.wordpress.com/2013/06/pbl.png [ABP, 300,200 role=center]
 
 == <<Fase 1>>: Diseño de una aula smart classroom
 
