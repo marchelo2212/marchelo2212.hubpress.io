@@ -45,7 +45,6 @@ Empleando el ABP dentro de las aulas de clase se logra desarrollar las siguiente
 * Toma de decisiones
 
 == Características del ABP
-
 Esta metodología posee las siguientes características:
 
 * Es una metodología centrada en el estudiante y en su aprendizaje. Enseña a trabajar con un grupo de manera autónoma y, a partir de la situación dada, realizar una investigación que finalice con la entrega de un proyecto que de respuesta viable a una necesidad determinada (o situación presentada).
@@ -61,11 +60,11 @@ estudiante la posibilidad de estructurar los conocimientos ya disponibles y los 
 
 El desarrollar ABP difiere de las metodologías tradicionales para lograr diferenciar de mejor manera puedes revisar la siguiente imagen:
 
-image:https://s32.postimg.org/bgzrx22sl/ABP_vs_Tradicional.png [ABP,350 role=center]
+image:https://s32.postimg.org/bgzrx22sl/ABP_vs_Tradicional.png [ABP,600 role=center]
 
 Para ser aún mpas específicos a continuación se describe puntos específicos:
 
-image:https://s32.postimg.org/wcm28ayzn/ABP_vs_Tradicional2.png [ABP, 600,200 role=center]
+image:https://s32.postimg.org/wcm28ayzn/ABP_vs_Tradicional2.png [ABP, 800,200 role=center]
 
 == Fases del ABP
 
@@ -164,14 +163,15 @@ Bielefeldt, & Underwood, 1997).
 == Bibliografía
 * Dra. Lourdes Galeana (2007). Aprendizaje Basado en proyectos. Universidad de Colima. http://goo.gl/wzvMrG
 
+* Martí, José A.; Heydrich, Mayra; Rojas, Marcia; Hernández, Annia (2010). Aprendizaje basado en proyectos: una experiencia de innovación docente. Revista Universidad EAFIT, vol. 46, núm. 158, abril-junio, 2010, pp. 11-21
+Universidad EAFIT, Medellìn, Colombia. http://goo.gl/Ln3AC7 
+
+* NorthWest Regional Educational Laboratory. Aprendizaje por proyetos (2006). http://goo.gl/qivctK
+
 * Ministerio de Educación, cultura y deporte (2012). Competencia para la Inserción Laboral Guía para el Profesorado. http://goo.gl/x84u8g
 
 * Servicio de Innovación Educativa (2008). Aprendizaje Orientado a Proyectos. niversidad Politécnica de Madrid. http://goo.gl/nKPCrr
 
 
-* Martí, José A.; Heydrich, Mayra; Rojas, Marcia; Hernández, Annia (2010). Aprendizaje basado en proyectos: una experiencia de innovación docente. Revista Universidad EAFIT, vol. 46, núm. 158, abril-junio, 2010, pp. 11-21
-Universidad EAFIT, Medellìn, Colombia. http://goo.gl/Ln3AC7 
-
-* NorthWest Regional Educational Laboratory. Aprendizaje por proyetos (2006). http://goo.gl/qivctK
 
 
