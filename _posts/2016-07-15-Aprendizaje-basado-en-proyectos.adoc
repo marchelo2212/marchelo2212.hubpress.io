@@ -64,7 +64,7 @@ image:https://s32.postimg.org/bgzrx22sl/ABP_vs_Tradicional.png [ABP,600 role=cen
 
 Para ser aún mpas específicos a continuación se describe puntos específicos:
 
-image:https://s32.postimg.org/wcm28ayzn/ABP_vs_Tradicional2.png [ABP, 800,200 role=center]
+image:https://s32.postimg.org/wcm28ayzn/ABP_vs_Tradicional2.png [ABP, 800, role=center]
 
 == Fases del ABP
 
