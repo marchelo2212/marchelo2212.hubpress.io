@@ -88,36 +88,55 @@ Acorde este modelo una persona sulee establecer su estilo de aprendizaje en 1 o 
 
 === Caráterísticas de cada estilo 
 
-Para lograr proponer/emplear estrategias de aprendizaje apropiadas para cada estilo revisemos las cata
+Para lograr proponer/emplear estrategias de aprendizaje apropiadas para cada estilo revisemos las características de cada uno:
 
 
 [cols="1,2,1,1", options="header,footer,autowidth"]
-.Tabla de presupuesto
+.Características Estilos de parendizaje modelo Kolb
 |===
-Cantidad |Descripción |Valor Individual  |Valor Total
+Estilo |Característica General |Cuando facilita el aprendizaje  |Cuando NO facilita el aprendizaje.
+|Activos
 
-|16|Sillas giratorias|20|320
+|Se involucran totalmente y sin prejuicios en las experiencias nuevas.
+Disfrutan el momento y cada acontecimiiento. Entusiastas ente lo nuevo. Actuan primero y luego piensan en las consecuencias. Disfrutan trabajando en equipo siendo el eje del grupo. Les aburre planificar a largo plazo y consolidar poryectos. 
+*La pregunta que buscan responder en el aprendizaje es: _¿Cómo?_*
 
-|4|Mesas para trabajo grupal 6 personas|70|280
+|Plantendo actividades desafiantes . Actividades de resultados immediatos o a corto plazo. Actividades activas de emoción, drama, acción.
 
-|5|Laptos Core I3|250|1250
+|Siendo pasivos. Demasiado análisis de un tema o mucha reflexión sobre algo. Trabajo individual.
 
-|5|Tablets|100|500
+|Reflexivo
 
-|2|Sofas|130|260
 
-|8|Puf – cojines|15|120
+|Adoptan una postura observadora de análsis en base a datos, experiencias desde varias perpectivas.Establecen conclusiones en base a argumentos sólidos y convincentes. Son precavidos y analizan todas las implicaciones de cualquier acción antes de ponerse en
+movimiento. En las reuniones observan y escuchan antes de hablar procurando pasar desapercibidos. *La pregunta que quieren responder con el aprendizaje es: _¿Por qué?_*
 
-|1|Mesa grupal grande|130|130
+|Cuando pueden tener una postura de observador. Analizar situaciones. Se les facilita información o datos. Tienen tiempo para reflexionar antes de actuar.
 
-|1|Impresora multifunción (copiadora, escanner e impresota)|150|150
+|Se exigen ser centro o eje de atención. Actividades de solución inmediata. Improvisación sobre algo. Actividades que le apresuren. 
 
-|2|Alfombras|120|240
+|Teóricos
 
-|1|Dispensador de agua caliente/fria|24|24
+|Adaptan e intergran las teorías o fundamentos de forma lógica. Organizan las cosas de forma secuencial, integrada y coherente. Analizan y sintetizan información de forma racional. No son subjetivos ni ilógicos. *La pregutna que quieren responder es: _¿Qué?_*
 
-|||Total|3274
+|Cuando se parte de teorías, modelos, sistemas. Ideas o conceptos desafiantes. Actividades que propicien la indagación o cuestionamientos.
+
+|Actividades abiguas o que generen incertidumbre. Actividades/situaciones que prioricen sentimientos o emociones. Cuando no se les facilita la teoría o bases conceptuales.
+
+|Prágmáticos
+
+
+|Gustan de poner en práctica las ideas, teorías, técnicas nuevas y verificar su funcionamiento, forma de uso/aplicación. Generan/buscan ideas y las ejecutan inmediatamente. Se basan en la realidad para plantear alternativas a fin de de tomar decisiones sobre algo. Buscan desafíos, replantear algo con una diferente perspectiva. Discuten un tema brevemenete, les aburren los debates largos. *La pregunta que quieren responder es: _¿Qué pasaría si?_*
+
+
+|Actividades que enlacen la teoría con la práctica. Visualizan trabajo/movimiento/acción. Posibilidad de aplicación de algo aprendido.
+
+
+|Cuando todo queda en teoría. Lo aprendido no se vincula con la realidad o necesidades puntuales. Actividades que no se identifique una finalidad con claridad.
+
 |===
+
+
 
 NOTE: Este valor de 3274 dólares es el cambio del euro (3000) a dolar.
 
