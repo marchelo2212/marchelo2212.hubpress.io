@@ -2,111 +2,93 @@
 :hp-tags: e-learning, innovación, estilos de aprendizaje,TIC, educación
 :published_at: 17-07-2016
 
+
+
+¿Cuáles son los diferentes estilos de aprendizaje? ¿Cómo se motiva a los estudiantes en cada caso?
+
+
+
+
 Dentro de las diversas acciones que un docente desarrolla en clase siempre debe tomar en cuenta los divesos estilos de aprendizaje de sus estudiantes, de esta manera podemos asegurar que cada actividad podrá generar un mejor aprendizaje en cada uno de ellos y responder a la diversidad de caracterísiticas de los mismo.
 
 == Estilos de aprendizaje
-image:https://eduarea.fil
-es.wordpress.com/2015/02/7-estilos-del-learning-730x877.jpg [Estilos de apredizaje, 400,300 role=right]
-
-Para lograr un aprendizaje significativo en cada estudiante es imprescindible el proponer actividades direccionadas a sus estilos de aprendizaje, de esta menera, analizaremos ciertas características de cada una y revisaremos algunas de las clasificaciones generadas por diferentes investigadores.
 
 
+
+El emplear metodologías que apunten a mantener como eje central al estudiante deberán tomar en cuenta la heterogeneidad del grupo y trabajar (planificando y aplicado) diversas estrategias didáctiva que permitan justamente que todo el grupo genere un aprendizaje significativo. Para esto imprescindible el proponer actividades direccionadas a sus estilos de aprendizaje, por ello, se revisará algunas de ellas con sus características.
+
+image:https://s20.postimg.org/bt67sp50t/estilos4.png[Estilos de aprendizaje,]
+
+Refiriéndose al tema Laura Frade, articula ocho capacidades que deben tener los docentes, estas capacidades interactúan entre sí para dar como resultado la óptima formación de los estudiantes:
+
+1. Capacidad diagnóstica: capacidad de detectar las necesidades de aprendizaje del estudiante, alienearla a un estilo de aprendizaje y vincularla con una estrategia de aprendizaje.
+
+2. Capacidad cognitiva: capacidad que guarda relación con la adquisición del conocimiento necesario para impartir los contenidos temáticos.
+
+3. Capacidad ética: capacidad que incide en la toma de decisiones del docente sobre su compromiso ante la sociedad, la responsabilidad de trabajo, los valores que promoverá, los juicios de  valor que emitirá, la priorización del desarrollo de los estudiantes, la preocupación sobre su futuro laboral.
+
+4. Capacidad lógica: capacidad para organizar el contenido temáticos de forma lógica-secuencial. Se demuestra por su, orden, graduación y dosificación.
+
+5. Capacidad empática: capacidad que permite entender a los estudiantes en tres diferentes planos: afectivo, cognitivo y psicomotriz.
+
+6. Capacidad comunicativa: habilidad para lograr la mediación entre el aprendizaje y la enseñanza.Se evidencia en el uso de los diferentes tipos de lenguaje que posibiliten al estudiante apropiarse del conocimiento y hacer su propia construcción significativa, lo que les permitirá aprender para la vida.
+
+7. Capacidad lúdica: capacidad que permite diseñar y aplicar diversas estrategias de enseñanza-aprendizaje.
+
+8. Capacidad metacognitiva: capacidad para evaluar el proceso enseñanza-aprendizaje en dos vías: hacia los alumnos verificando avances y estableciendo medidas correctivas, pero además hacia su propio desempeño como docente, lo que le permitirá mejorar día a día en su profesión.
+
+Si nosotros como docentes contamos con estas habilidades, aseguraremos un buen trabajo con nuestros estudiantes.
 
 === ¿Qué son?
 
+Se definen como las distintas maneras en que un individuo puede aprender; para Alonso y Gallego (1994) los estilos de aprendizaje son los rasgos cognitivos, afectivos y fisiológicos que sirven como indicadores relativamente estables de cómo los alumnos perciben interacciones y responden a sus ambientes de aprendizaje.
+
+Se cree que todas las personas emplean un método particular de interacción, aceptación y procesado de estímulos e información. Las características sobre estilo de aprendizaje suelen formar parte de cualquier informe psicopedagógico que se elabore sobre un estudiante, y debiera ser el fundamento de las estrategias didácticas y refuerzos pedagógicos para que estos sean los más adecuados para el alumno.
+
+Los diversos investigadores que han propuesto algún estilo de aprendizaje en cierto difieren de los componentes de los estilos de aprendizaje; sin embargo estos serían algunos de los más empleados:
+
+* Condiciones ambientales
+* Bagaje cultural
+* Edad
+* Preferencias de agrupamiento (se refiere a si se trabaja mejor individual-
+mente o en equipo)
+* Estilo seguido para la resolución de problemas
+* Tipo de motivación, locus de control interno o externo
+
+El analizar los diferentes estilos de aprendizjae que tienen nuestros estudiantes sin lugar a dudas permitirá que podamos tomar decisiones dirigidas a satisfacer cada necesidad singular en el grupo y con ellos que el conjunto de estudiantes logre la asimilización de conocimientos planificiada o quizás una superior.
+
+
+=== Clasificación
+
+Los modelos existentes sobre estilos de aprendizaje ofrecen un marco conceptual para entender los comportamientos observados en el aula, los cuales brindan una
+explicación sobre la relación de esos comportamientos con la forma en que están aprendiendo los alumnos y el tipo de estrategias de enseñanza que pueden resultar más eficaces en un momento determinado, ya sea por el contendido temático en sí, o bien por las diversas interacciones sociales que se desarrollan en el aula.
+
+
+De esta manera tenemos varias clasificaciones las cuales se muestran en la siguiente tabla:
+
+
+image:https://s20.postimg.org/6t8rkqze5/estilos1.png[Calsificación estilos de apredizaje, 800,400 role=right]
+
+=== Modelo de Kolb
+
+El aprendizaje experiencial progresa a través de un ciclo de actividades a las que se conoce habitualmente como ciclo de aprendizaje de Kolb (David Kolb, 1984). 
+
+El ciclo tiene cuatro componentes, cada uno de los cuales plantea retos concretos a la hora de planificar actividades académicas.
+
+image:http://image.slidesharecdn.com/estilos-de-aprendizaje-k-o-l-b2165/95/estilos-de-aprendizaje-k-o-l-b-5-728.jpg [ciclos modelo kolb]
+
+Acorde este modelo una persona sulee establecer su estilo de aprendizaje en 1 o máximo 2 de estas fases y de esta menera podemos clasificar a nuestros estudiantes acorde la fase que prefieran trabajar.
+
+* Activo
+* Reflexivo
+* Teórico
+* Pragmático
 
 
 
-=== Contextualización
+=== Caráterísticas de cada estilo 
 
-La Unidad Educativa "Milenio", esta ubicada al norte de la ciudad Quito, capital de Ecuador, cuenta con un cuerpo docente de 38 docentes para las diferentes áreas del conocimiento, oferta un bachillerato unificado en ciencias y también se encuetra entre las unidades educativas con capacidad de ofertar un Bachillerato Internacional.
-
-Esta propuesta de proyecto esta dirigida a estudiantes de nivel secundario del primer años de bachillerato, entre los 15 y 16 años de edad, para trabajar la asignatura de emprendimiento y gestión; el espacio físico tiene las dimensiones 16m de largo por 8 de ancho, cuenta con energía eléctrica, red inalámbrica interna y conexión a internet con uan velocidad de 10mbps.
-
-Este espacio físico se lo contruyó con las siguientes características:
-
-* Puerta estilo francesa.
-* Ventanales de 3m en cada pared
-* Vídrios templado transparentes
-* Multiples tomas correinte tanto en paredes como techo.
-* Pizarra para marcador líquido
-* Mueblés stándar de clase (sella y mesas individual) estudiante.
-* Escritio y silla para el docente.
-* Libreros, casilleros para los estudiantes
-* Proyector
-* Sistema de audio (parlantes)
-* Un computador para el docente con sistema windows 8.1 
-
-De esta manera este espacio posee las carácterísitcas comunes al compararla con otras aulas de clase de la institución; sin embargo gracias a la gestión realizada por parte de las autoridades se ha logrado un fondo de 3200 usd, para la aducación de este espacio y tranformarlo en una smarth class acorde las necesidades de la misma y posibilidades ya existentes.
-
-De esta manera el actual proyecto propone un rediseño interno del aula de clase y una  optimización del espacio, buscando el mejorar el desempeño de cada participate del proceso 
-
-
-==== Transformando el aula de clase a una Smarth ClassRoom
-
-Al querer tranformar este espacio es necesario buscar una integracion del espacio con la tecnología, acorde  lo mencionado por Gros, 2000 y 2004;
-Hutchings y Standley, (2000) donde defienden, a partir de sus ideas y reflexiones, que en una smart classroom debería asociarse
-
-_“... una integración invisible de la tecnología en el espacio de aprendizaje.”_ 
-
-Debtro de una smarth Classroom se busca la  intersección de tres elementos que interactúan en el diseño del espacio de aprendizaje:
-
-. El diseño arquitectónico y la ergonomía del aula, poseer mobiliario e
-instrumentos que faciliten el trabajo dentro del aula, la creatividad y colaboración.
-. La integración de la tecnología de manera: funcional, invisible, justificada e
-intensiva
-. Una metodología didáctica: innovadora, disruptiva y oblicua; adecuada a este
-espacio con la finalidad de hacer más eficiente y satisfactorio el proceso de
-aprendizaje.
-
-Para poder considerarse una Smart classroom necesariamente deberá poseer ciertas
-características didácticas como son: +
-
-* Flexibilidad en la estructura física
-* Adaptabilidad
-* Confortabilidad
-* Riqueza y variabilidad
-* Conectividad
-* Personalización
-
-Por todo esto se ha planteado el siguiente plano de la clase en la que se pueden evidenciar los cambios que se necesitrarían.
-
-image:https://dl.dropboxusercontent.com/u/82435380/Tutorias%20Marcelo/clase.jpg[interaprendizaje, 600, role=center]
-
-De esta manera los cambios que se realizarán son los siguientes:
-
-* Aula cuenta con una PDI (Pizarra Digital Interactiva), de bajo costo, ya que se la realizo con el proyecto de Jonny Lee Chunlee, 
-* Usar sistema operativos GNU/Linux Edubuntu, ya que posee gran cantidad de software educativo didáctivo.
-* Incorporar mesas para trabajo grupal
-* Agregar computadores, core I3 con sistema operativo Edubunto
-* Incorporar tablets
-* Generar un espacios que promuevan la creatividad y el trabajo colaborativo.
-
-Se ha planeado para realizar trabajado en grupos de 4 estudiantes, en el caso de ser más se podrán dar uso a puf ubicados alrededor, se cuenta con dos áreas bien limitadas, el área "académcia", donde se realizá en su mayoría el proceso de enseñana aprendizaje guiada por el docente/facilitador y el segundo "recreativo"donde se podrá continuar con este proceso de una manera menos formal y más libre.
-
-Se ha generado estos espacios con el fin de que el estudiante logre identificar cada área y que logre trabajar de diferente manera en cada una, es decir, en el área "académica" se busca dirigir la atención a que el estudiante comprenda las directrices planteadas y/o conocimiento s necesarios para realizar las actividades. 
-
-Por otro lado en el área recreativa el estudiante podrá relajarse y sentirse libres el la convivencia con sus compañeros,interactuando y trabajando colaborativamente desde diversos puntos de esta área. 
-
-también se han ubicado áreas para la ubicación de materiales del estudiante (pertenencias) y otro de materiales del Aula (Librero, armario), así mismo se ha instalado una impresora inalámbrica para poder tener impreso o imprimir cualquier documentación que se necesite.
-
-También se cuenta con una mesa principal que permitirá tener un espacio para trabajar entre todos, así cada estudiante podrá construir su conocimiento y aportar al del resto  y esto facilitará la flexión, análisis y síntesis de toda la información/concimeinto y resolver infinidad de retos.
-
-El docente/facilitador cuenta con su espacio ubicado de tal manera que le sea fácil dirigirse al grupo y verificar el desarrollo de las actividades o planificar las mismas. Una las de las carácterísitcas de todo el inmobiliario es que puede desplazarse con facilidad, ya que posee ruedas en cada pata.
-
-Para visializar en 3D esta aula por favor visite este link:
-
-
-:linkattrs:
-http://floorplanner.com/projects/37242114-smarthclassroom/#details[mapa 3D Smarth ClassRoom, window="_blank"]
-
-
-
-
-
-=== xref:presupuesto[Presupuesto]
-
-Es necesario dar todo el uso posible al inmobiliario ya existe al igual que a la tecnología que posee ya el aula de clase por ello se propone:
+Para lograr proponer/emplear estrategias de aprendizaje apropiadas para cada estilo revisemos las cata
 
 
 [cols="1,2,1,1", options="header,footer,autowidth"]
