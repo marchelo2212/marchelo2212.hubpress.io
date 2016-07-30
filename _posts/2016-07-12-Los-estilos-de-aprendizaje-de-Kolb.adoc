@@ -1,6 +1,7 @@
 = Los estilos de aprendizaje de Kolb
 :hp-tags: e-learning, innovación, estilos de aprendizaje,TIC, educación
-:published_at: 17-07-2016
+:published_at: 2016-07-12
+
 
 Dentro de las diversas acciones que un docente desarrolla en clase siempre debe tomar en cuenta los divesos estilos de aprendizaje de sus estudiantes, de esta manera podemos asegurar que cada actividad podrá generar un mejor aprendizaje en cada uno de ellos y responder a la diversidad de caracterísiticas de los mismo.
 
