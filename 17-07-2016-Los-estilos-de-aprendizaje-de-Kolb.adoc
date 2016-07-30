@@ -35,7 +35,7 @@
     <meta property="og:description" content="Dentro de las diversas acciones que un docente desarrolla en clase siempre debe tomar en cuenta los divesos estilos de aprendizaje de sus estudiantes, de esta manera podemos asegurar que cada actividad podrá generar un mejor aprendizaje en cada uno..." />
     <meta property="og:url" content="https://marchelo2212.github.io17-07-2016-Los-estilos-de-aprendizaje-de-Kolb.adoc" />
     <meta property="article:published_time" content="Invalid date" />
-    <meta property="article:modified_time" content="2016-07-30T17:54:22.733Z" />
+    <meta property="article:modified_time" content="2016-07-30T18:15:38.993Z" />
     <meta property="article:tag" content="e-learning" />
     <meta property="article:tag" content="innovación" />
     <meta property="article:tag" content="estilos de aprendizaje" />
@@ -62,7 +62,7 @@
     "headline": "Los estilos de aprendizaje de Kolb",
     "url": "https://marchelo2212.github.io17-07-2016-Los-estilos-de-aprendizaje-de-Kolb.adoc",
     "datePublished": "Invalid date",
-    "dateModified": "2016-07-30T17:54:22.733Z",
+    "dateModified": "2016-07-30T18:15:38.993Z",
     "keywords": "e-learning,  innovación,  estilos de aprendizaje, TIC,  educación",
     "description": "Dentro de las diversas acciones que un docente desarrolla en clase siempre debe tomar en cuenta los divesos estilos de aprendizaje de sus estudiantes, de esta manera podemos asegurar que cada actividad podrá generar un mejor aprendizaje en cada uno..."
 }
