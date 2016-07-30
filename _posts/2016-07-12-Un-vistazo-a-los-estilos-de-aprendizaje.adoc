@@ -88,8 +88,8 @@ Para lograr proponer/emplear estrategias de aprendizaje apropiadas para cada est
 [cols="1,2,1,1", options="header,footer,autowidth"]
 .Características Estilos de parendizaje modelo Kolb
 |===
-Estilo |Característica General |Cuando facilita el aprendizaje  |Cuando NO facilita el aprendizaje.
-|Activos
+*Estilo* |Característica General |Cuando facilita el aprendizaje  |Cuando NO facilita el aprendizaje.
+|*Activos*
 
 |Se involucran totalmente y sin prejuicios en las experiencias nuevas.
 Disfrutan el momento y cada acontecimiiento. Entusiastas ente lo nuevo. Actuan primero y luego piensan en las consecuencias. Disfrutan trabajando en equipo siendo el eje del grupo. Les aburre planificar a largo plazo y consolidar poryectos. 
@@ -99,7 +99,7 @@ Disfrutan el momento y cada acontecimiiento. Entusiastas ente lo nuevo. Actuan p
 
 |Siendo pasivos. Demasiado análisis de un tema o mucha reflexión sobre algo. Trabajo individual.
 
-|Reflexivo
+|*Reflexivo*
 
 
 |Adoptan una postura observadora de análsis en base a datos, experiencias desde varias perpectivas.Establecen conclusiones en base a argumentos sólidos y convincentes. Son precavidos y analizan todas las implicaciones de cualquier acción antes de ponerse en
@@ -109,7 +109,7 @@ movimiento. En las reuniones observan y escuchan antes de hablar procurando pasa
 
 |Se exigen ser centro o eje de atención. Actividades de solución inmediata. Improvisación sobre algo. Actividades que le apresuren. 
 
-|Teóricos
+|*Teóricos*
 
 |Adaptan e intergran las teorías o fundamentos de forma lógica. Organizan las cosas de forma secuencial, integrada y coherente. Analizan y sintetizan información de forma racional. No son subjetivos ni ilógicos. *La pregutna que quieren responder es: _¿Qué?_*
 
@@ -117,7 +117,7 @@ movimiento. En las reuniones observan y escuchan antes de hablar procurando pasa
 
 |Actividades abiguas o que generen incertidumbre. Actividades/situaciones que prioricen sentimientos o emociones. Cuando no se les facilita la teoría o bases conceptuales.
 
-|Prágmáticos
+|*Prágmáticos*
 
 
 |Gustan de poner en práctica las ideas, teorías, técnicas nuevas y verificar su funcionamiento, forma de uso/aplicación. Generan/buscan ideas y las ejecutan inmediatamente. Se basan en la realidad para plantear alternativas a fin de de tomar decisiones sobre algo. Buscan desafíos, replantear algo con una diferente perspectiva. Discuten un tema brevemenete, les aburren los debates largos. *La pregunta que quieren responder es: _¿Qué pasaría si?_*
@@ -132,7 +132,7 @@ movimiento. En las reuniones observan y escuchan antes de hablar procurando pasa
 
 
 
-NOTE: Bibliografía
+NOTE: *Bibliografía*
 
 * Maria Victoria González Clavero (2011). Estilos de aprendizaje y su influencia para aprender a aprender. Universidad Central “Marta Abreu” de Las Villas. Santa - Cuba. mariag@uclv.edu.cu http://goo.gl/fuDZPb
 
